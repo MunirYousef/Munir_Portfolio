@@ -1,5 +1,5 @@
-# Munir_Portfolio
-Hosting Projects
+# Data Science Portfolio
+
 # [Project 1: Breast Cancer Prediction: Project Overview](https://github.com/MunirYousef/Breast_Cancer_Predictor/blob/gh-pages/Breast_Cancer_Predictor.ipynb)
 The information presented in this file contains data representing the correlation between characteristics or features of cells in Malignant and Benign masses. Some of the features include "uniformity of cell shape" and "clump thickness". 
 After plotting the data in pairplots and heatmaps to visualize our values, the data was then split into a training and testing group using sklearn and preprocessing methods. 
