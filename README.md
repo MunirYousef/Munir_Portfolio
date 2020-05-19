@@ -9,7 +9,7 @@ Project tools used:
 •	Pandas
 •	matplotlib.pyplot
 •	seaborn
-![](https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/download%20(1).png)
+![](https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/download.png)
 ![](https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/download%20(1).png)
 
 # [Project 2: Global Temperature Prediction: Project Overview](https://github.com/MunirYousef/Global_Temp/blob/master/Global_Temp_TS.ipynb)
