@@ -11,9 +11,10 @@ Project tools used:
 -	Pandas
 -	matplotlib.pyplot
 -	seaborn
-
+<p align="center">
+  
 ![](/images/heatmap2.png)
-
+</p>
 
 ![](/images/heat_map_1.png)
 
