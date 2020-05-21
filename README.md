@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [COVID-19 Data Visualization: Project Overview](https://public.tableau.com/profile/munir3451#!/vizhome/COVID-19_DATA/Dashboard1?publish=yes)
+# [COVID-19 Data Visualization:](https://public.tableau.com/profile/munir3451#!/vizhome/COVID-19_DATA/Dashboard1?publish=yes)
 Interactive Tableau dashboard featuring current metrics and trends of the global COVID-19 pandemic. COVID-19 visualization featuring the pandemics global impact in real time. Data retrieved from the COVID-19 Global Data Tracker provides aggregate data compiled from state and local governments and health departments. 
 
 <p align="center">
@@ -11,7 +11,7 @@ Interactive Tableau dashboard featuring current metrics and trends of the global
 
 
 
-# [Breast Cancer Prediction: Project Overview](https://github.com/MunirYousef/Breast_Cancer_Predictor/blob/gh-pages/Breast_Cancer_Predictor.ipynb)
+# [Breast Cancer Prediction:](https://github.com/MunirYousef/Breast_Cancer_Predictor/blob/gh-pages/Breast_Cancer_Predictor.ipynb)
 The information presented in this file contains data representing the correlation between characteristics or features of cells in Malignant and Benign masses. Some of the features include "uniformity of cell shape" and "clump thickness". 
 After plotting the data in pairplots and heatmaps to visualize our values, the data was then split into a training and testing group using sklearn and preprocessing methods. 
 The data was then fit into various ML algorithms/classifiers to test the models accuracy. The results of each test were displayed in a confusion matrix and visualizers. 
@@ -30,7 +30,7 @@ Project tools used:
 
 
 
-# [Global Temperature Prediction: Project Overview](https://github.com/MunirYousef/Global_Temp/blob/master/Global_Temp_TS.ipynb)
+# [Global Temperature Prediction:](https://github.com/MunirYousef/Global_Temp/blob/master/Global_Temp_TS.ipynb)
 This project was created to predict the trend of rising global temperatures using an ARIMA time series model. 
 The procedure requires importing the necessesary tools for analysis and visualization. 
 The dataset was pulled from https://datahub.io/core/global-temp and preprocessed to only include the temperatures recorded in March, every year from 1895 to 2016.
@@ -43,7 +43,7 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
 </p>
 
 
-# [COVID-19 Data Visualization Microsoft Power BI: Project Overview](https://github.com/MunirYousef/PowerBI/blob/master/Corona_World_Data.pbix)
+# [COVID-19 Data Visualization Microsoft Power BI:](https://github.com/MunirYousef/PowerBI/blob/master/Corona_World_Data.pbix)
 Interactive data visualization of the demographics impacted by the global pandemic. The data visualized can be used to predict possible trends in transmission between nations.   
 
 <p align="center">
@@ -53,7 +53,7 @@ Interactive data visualization of the demographics impacted by the global pandem
 
 
 
-# [ArcGIS Analysis Of Mining Communities In The United States In Relation To Average Household Income And Education Level: Project Overview](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
+# [ArcGIS Analysis Of Mining Communities In The United States In Relation To Average Household Income And Education Level:](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
 
 In most cases in within the United States, mining camps came first, and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
 
