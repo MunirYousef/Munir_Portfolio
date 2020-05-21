@@ -13,9 +13,10 @@ Project tools used:
 -	seaborn
 <p align="center">
   <img width="500" height="350" src="/images/heatmap2.png">
+   <img width="500" height="350" src="/images/heat_map_1.png">
 </p>
 
-![](/images/heat_map_1.png)
+
 
 # [Global Temperature Prediction: Project Overview](https://github.com/MunirYousef/Global_Temp/blob/master/Global_Temp_TS.ipynb)
 This project was created to predict the trend of rising global temperatures using an ARIMA time series model. 
