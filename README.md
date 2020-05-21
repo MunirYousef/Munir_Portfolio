@@ -4,8 +4,7 @@
 Interactive Tableau dashboard featuring current metrics and trends of the global COVID-19 pandemic. COVID-19 visualization featuring the pandemics global impact in real time. Data retrieved from the COVID-19 Global Data Tracker provides aggregate data compiled from state and local governments and health departments. 
 
 <p align="center">
- <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/heatmap2.png">
-   <img width="650" height="500" src="/images/heat_map_1.png">
+ <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Dashboard%201.png">
 </p>
 
 
@@ -42,6 +41,15 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
   <img width="500" height="350" src="/images/prediction_analysis.png">
 
 </p>
+
+
+# [COVID-19 Data Visualization Microsoft Power BI: Project Overview](https://github.com/MunirYousef/PowerBI/blob/master/Corona_World_Data.pbix)
+Interactive data visualization of the demographics impacted by the global pandemic. The data visualized can be used to predict possible trends in transmission between nations.   
+
+<p align="center">
+ <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Corona_World_Data.pdf">
+   </p>
+
 
 
 
