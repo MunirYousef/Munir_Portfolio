@@ -47,7 +47,7 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
 Interactive data visualization of the demographics impacted by the global pandemic. The data visualized can be used to predict possible trends in transmission between nations.   
 
 <p align="center">
- <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Corona_World_Data.pdf">
+ <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Corona_World_Data.png">
    </p>
 
 
