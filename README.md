@@ -1,5 +1,17 @@
 # Data Science Portfolio
 
+# [COVID-19 Data Visualization: Project Overview](https://public.tableau.com/profile/munir3451#!/vizhome/COVID-19_DATA/Dashboard1?publish=yes)
+Interactive Tableau dashboard featuring current metrics and trends of the global COVID-19 pandemic. COVID-19 visualization featuring the pandemics global impact in real time. Data retrieved from the COVID-19 Global Data Tracker provides aggregate data compiled from state and local governments and health departments. 
+
+<p align="center">
+ <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/heatmap2.png">
+   <img width="650" height="500" src="/images/heat_map_1.png">
+</p>
+
+
+
+
+
 # [Breast Cancer Prediction: Project Overview](https://github.com/MunirYousef/Breast_Cancer_Predictor/blob/gh-pages/Breast_Cancer_Predictor.ipynb)
 The information presented in this file contains data representing the correlation between characteristics or features of cells in Malignant and Benign masses. Some of the features include "uniformity of cell shape" and "clump thickness". 
 After plotting the data in pairplots and heatmaps to visualize our values, the data was then split into a training and testing group using sklearn and preprocessing methods. 
