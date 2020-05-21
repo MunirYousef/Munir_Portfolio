@@ -13,7 +13,7 @@ Project tools used:
 -	seaborn
 
 <p align="center">
- <img width="500" height="350" src="/images/heatmap2.png">
+ <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/heatmap2.png">
    <img width="650" height="500" src="/images/heat_map_1.png">
 </p>
 
