@@ -13,7 +13,7 @@ Project tools used:
 -	seaborn
 <p align="center">
   <img width="500" height="350" src="/images/heatmap2.png">
-   <img width="600" height="450" src="/images/heat_map_1.png">
+   <img width="650" height="500" src="/images/heat_map_1.png">
 </p>
 
 
@@ -53,8 +53,8 @@ This study used data from Social Explorer’s Education data set. Social Explore
 7.	Real Estate
 
 <p align="center">
-<img width="600" height="450" src="/images/map2.jpg">
-<img width="600" height="450" src="/images/map3.jpg">
+<img width="800" height="600" src="/images/map2.jpg">
+<img width="800" height="600" src="/images/map3.jpg">
 
 </p>
 
