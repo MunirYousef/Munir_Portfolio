@@ -12,8 +12,8 @@ Project tools used:
 -	matplotlib.pyplot
 -	seaborn
 <p align="center">
-  
-![](/images/heatmap2.png)
+  ![]<img width="460" height="300" src="/images/heatmap2.png">
+
 </p>
 
 ![](/images/heat_map_1.png)
