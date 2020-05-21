@@ -12,8 +12,7 @@ Project tools used:
 -	matplotlib.pyplot
 -	seaborn
 <p align="center">
-  ![]<img width="460" height="300" src="/images/heatmap2.png">
-
+  <img width="500" height="350" src="/images/heatmap2.png">
 </p>
 
 ![](/images/heat_map_1.png)
@@ -23,11 +22,14 @@ This project was created to predict the trend of rising global temperatures usin
 The procedure requires importing the necessesary tools for analysis and visualization. 
 The dataset was pulled from https://datahub.io/core/global-temp and preprocessed to only include the temperatures recorded in March, every year from 1895 to 2016.
 
-![](/images/moving_average_log_scale.png)
+<p align="center">
+  <img width="500" height="350" src="/images/moving_average_log_scale.png">
+  <img width="500" height="350" src="/images/rolling_mean_standard_dev.png">
+  <img width="500" height="350" src="/images/prediction_analysis.png">
 
-![](/images/rolling_mean_standard_dev.png)
+</p>
 
-![](/images/prediction_analysis.png)
+
 
 # [ArcGIS Analysis Of Mining Communities In The United States In Relation To Average Household Income And Education Level: Project Overview](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
 
@@ -49,9 +51,10 @@ This study used data from Social Explorer’s Education data set. Social Explore
 6.	Poverty
 7.	Real Estate
 
-![](/images/map2.jpg)
+<p align="center">
+<img width="500" height="350" src="/images/map2.jpg">
+<img width="500" height="350" src="/images/map3.jpg">
 
-![](/images/map3.jpg)
-
+</p>
 
 
