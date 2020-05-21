@@ -12,7 +12,7 @@ Project tools used:
 -	matplotlib.pyplot
 -	seaborn
 
-![](/images/download.png)
+![](/images/heatmap2.png)
 
 
 ![](/images/heat_map_1.png)
