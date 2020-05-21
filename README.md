@@ -46,7 +46,7 @@ This study used data from Social Explorer’s Education data set. Social Explore
 4.	Housing
 5.	Income
 6.	Poverty
-7.	Real Estate
+7.	Real Estate1
 
 ![](/images/map2.jpg)
 
