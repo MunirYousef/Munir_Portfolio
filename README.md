@@ -44,7 +44,7 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
 
 
 # [COVID-19 Data Visualization Microsoft Power BI:](https://github.com/MunirYousef/PowerBI/blob/master/Corona_World_Data.pbix)
-Interactive data visualization of the demographics impacted by the global pandemic. The data visualized can be used to predict possible trends in transmission between nations.   
+Interactive data visualization of the demographics impacted by the global pandemic. The data visualized helps predict possible trends in transmission between nations.   
 
 <p align="center">
  <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Corona_World_Data.png">
@@ -55,7 +55,7 @@ Interactive data visualization of the demographics impacted by the global pandem
 
 # [ArcGIS Analysis Of Mining Communities In The United States In Relation To Average Household Income And Education Level:](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
 
-In most cases in within the United States, mining camps came first, and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
+In most cases within the United States, mining camps came first, and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
 
 To better understand the communities that mining camps are situated in, demographic data on the attainment of average income by county was analyzed.  Since this may be both a national and localized phenomenon, the analysis included both a national perspective and a local one.  Westchester County in New York State was used for local analysis. The study was conducted to determine:
 1.	What is the distribution of average income in mining towns in the continental United States and locally in Westchester County?
