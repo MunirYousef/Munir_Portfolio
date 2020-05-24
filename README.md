@@ -4,7 +4,7 @@
 Interactive Tableau dashboard featuring current metrics and trends of the global COVID-19 pandemic. COVID-19 visualization featuring the pandemics global impact in real time. Data retrieved from the COVID-19 Global Data Tracker provides aggregate data compiled from state and local governments and health departments. 
 
 <p align="center">
- <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Dashboard%201.png">
+ <img width="500" height="350" src="/images/Dashboard%201.png">
 </p>
 
 
@@ -24,7 +24,7 @@ Project tools used:
 -	seaborn
 
 <p align="center">
- <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/heatmap2.png">
+ <img width="500" height="350" src="/images/heatmap2.png">
    <img width="650" height="500" src="/images/heat_map_1.png">
 </p>
 
@@ -47,7 +47,7 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
 Interactive data visualization of the demographics impacted by the global pandemic. The data visualized helps predict possible trends in transmission between nations.   
 
 <p align="center">
- <img width="500" height="350" src="https://github.com/MunirYousef/Munir_Portfolio/blob/master/images/Corona_World_Data.png">
+ <img width="500" height="350" src="images/Corona_World_Data.png">
    </p>
 
 
