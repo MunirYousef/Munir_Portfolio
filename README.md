@@ -4,7 +4,7 @@
 Interactive Tableau dashboard featuring current metrics and trends of the global COVID-19 pandemic. COVID-19 visualization featuring the pandemics global impact in real time. Data retrieved from the COVID-19 Global Data Tracker provides aggregate data compiled from state and local governments and health departments. 
 
 <p align="center">
- <img width="500" height="350" src="/images/Dashboard%201.png">
+ <img width="500" height="350" src="images/Dashboard%201.png">
 </p>
 
 
@@ -24,8 +24,8 @@ Project tools used:
 -	seaborn
 
 <p align="center">
- <img width="500" height="350" src="/images/heatmap2.png">
-   <img width="650" height="500" src="/images/heat_map_1.png">
+ <img width="500" height="350" src="images/heatmap2.png">
+   <img width="650" height="500" src="images/heat_map_1.png">
 </p>
 
 
@@ -36,9 +36,9 @@ The procedure requires importing the necessesary tools for analysis and visualiz
 The dataset was pulled from https://datahub.io/core/global-temp and preprocessed to only include the temperatures recorded in March, every year from 1895 to 2016.
 
 <p align="center">
-  <img width="500" height="350" src="/images/moving_average_log_scale.png">
-  <img width="500" height="350" src="/images/rolling_mean_standard_dev.png">
-  <img width="500" height="350" src="/images/prediction_analysis.png">
+  <img width="500" height="350" src="images/moving_average_log_scale.png">
+  <img width="500" height="350" src="images/rolling_mean_standard_dev.png">
+  <img width="500" height="350" src="images/prediction_analysis.png">
 
 </p>
 
@@ -74,8 +74,8 @@ This study used data from Social Explorer’s Education data set. Social Explore
 7.	Real Estate
 
 <p align="center">
-<img width="800" height="600" src="/images/map2.jpg">
-<img width="800" height="600" src="/images/map3.jpg">
+<img width="800" height="600" src="images/map2.jpg">
+<img width="800" height="600" src="images/map3.jpg">
 
 </p>
 
