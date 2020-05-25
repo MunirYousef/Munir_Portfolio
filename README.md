@@ -53,14 +53,11 @@ Interactive data visualization of the demographics impacted by the global pandem
 
 
 
-# [ArcGIS Analysis Of Mining Communities In The United States In Relation To Average Household Income And Education Level:](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
+# [ArcGIS Analysis Of Mining Communities In The United States:](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
 
-In most cases within the United States, mining camps came first, and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
+In most cases, mining camps came first and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
 
-To better understand the communities that mining camps are situated in, demographic data on the attainment of average income by county was analyzed.  Since this may be both a national and localized phenomenon, the analysis included both a national perspective and a local one.  Westchester County in New York State was used for local analysis. The study was conducted to determine:
-1.	What is the distribution of average income in mining towns in the continental United States and locally in Westchester County?
-2.	What is the distribution of counties with average income (both locally and nationally)?
-3.	What mining towns are in the designated demographic (Average income with Bachelor’s degrees attained less than the Mean)?
+
 
 **Methodology**
 The development environment for this study was ESRI ArcGIS Arcmap.
