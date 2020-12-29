@@ -25,6 +25,24 @@ Project tools used:
 </p>
 
 
+# [Heart Disease Prediction:](https://github.com/MunirYousef/Heart_Disease_Prediction/blob/main/Final_Project.Rmd)
+This analysis was performed using the dataset available on Kaggle and the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Heart+Disease).  
+The goal of this project is to gain a better understanding of the causes of Heart Disease and/or heart failure; and use predictive modeling to find correlations and trends in the data that can be used towards early detection. The dataset contains 303 instances or “patients”, each with a set of values across 14 attributes. These attributes include age, sex, types of chest pain and others which can be used to predict cardiovascular events and overall heart health. All names and social security numbers included in the dataset have been switched with dummy values. After carrying out preprocessing operations I will explore the dataset to look for relationships and trends using supervised and unsupervised methods before creating a predictive model.  
+
+Project tools used:
+-	carey
+-	tidyverse
+-	e1071
+-	NbClust
+- ggplot
+
+<p align="center">
+ <img width="500" height="350" src="images/angina.png">
+   <img width="500" height="350" src="images/cptype.png">
+ <img width="500" height="350" src="images/dtree_3.png">
+</p>
+
+
 
 
 
