@@ -85,6 +85,17 @@ Interactive data visualization of the demographics impacted by the global pandem
 <p align="center">
  <img width="500" height="350" src="images/Corona_World_Data.png">
    </p>
+   
+   
+   
+# [SSMS Database:](https://github.com/MunirYousef/GreyHat_SSMS/blob/main/sql_code.txt)
+This file contains all the code to create a fully functional relational database in SQL Server Management Studio. The file contains dummy data that was used to present a business case for database optimization and functional efficiency. The code can be simply copied and pasted into SSMS and run to interact with a functional database. Tasks performed after database creation include creating and removing users and privileges, creating joins between tables, adding and removing rows of data and advanced querying. Code file also includes stored procedures and functions.     
+
+<p align="center">
+ <img width="500" height="350" src="images/Project_ERD-Page-2.png">
+  <img width="500" height="350" src="images/Project_ERD.png">
+
+</p>   
 
 
 
