@@ -8,6 +8,9 @@ Interactive Tableau dashboard featuring current metrics and trends of the global
 </p>
 
 
+
+
+
 # [Airbnb Sentiment Analysis:](https://github.com/MunirYousef/NLP_Airbnb/blob/main/NLP_Final_Project.ipynb)
 This sentiment analysis was conducted on user reviews of left by Airbnb guests in NYC during 2015. After data collection and exploratory analysis, language detection was used to filter only the english comments. Data visualizations such as wordclouds, charts and frequency distributions showed what language characteristics were prevalent and before being sorted according to negative and positive polarity. Topic modeling and sentiment analysis were used to show what the most important factors of a guests stay were according to their experience. This data can be used to address issues that may impact the business negatively and enhance guest experience.    
 
@@ -23,6 +26,9 @@ Project tools used:
    <img width="500" height="350" src="images/text_length.png">
  <img width="500" height="350" src="images/wc_2.png">
 </p>
+
+
+
 
 
 # [Heart Disease Prediction:](https://github.com/MunirYousef/Heart_Disease_Prediction/blob/main/Final_Project.Rmd)
@@ -41,7 +47,6 @@ Project tools used:
    <img width="500" height="350" src="images/cptype.png">
  <img width="500" height="350" src="images/dtree_3.png">
 </p>
-
 
 
 
@@ -66,6 +71,8 @@ Project tools used:
 
 
 
+
+
 # [Global Temperature Prediction:](https://github.com/MunirYousef/Global_Temp/blob/master/Global_Temp_TS.ipynb)
 This project was created to predict the trend of rising global temperatures using an ARIMA time series model. 
 The procedure requires importing the necessesary tools for analysis and visualization. 
@@ -79,6 +86,9 @@ The dataset was pulled from https://datahub.io/core/global-temp and preprocessed
 </p>
 
 
+
+
+
 # [COVID-19 Data Visualization Microsoft Power BI:](https://github.com/MunirYousef/PowerBI/blob/master/Corona_World_Data.pbix)
 Interactive data visualization of the demographics impacted by the global pandemic. The data visualized helps predict possible trends in transmission between nations.   
 
@@ -87,7 +97,9 @@ Interactive data visualization of the demographics impacted by the global pandem
    </p>
    
    
-   
+
+
+
 # [SSMS Database:](https://github.com/MunirYousef/GreyHat_SSMS/blob/main/sql_code.txt)
 This file contains all the code to create a fully functional relational database in SQL Server Management Studio. The file contains dummy data that was used to present a business case for database optimization and functional efficiency. The code can be simply copied and pasted into SSMS and run to interact with a functional database. Tasks performed after database creation include creating and removing users and privileges, creating joins between tables, adding and removing rows of data and advanced querying. Code file also includes stored procedures and functions.     
 
@@ -96,6 +108,7 @@ This file contains all the code to create a fully functional relational database
   <img width="500" height="350" src="images/Project_ERD.png">
 
 </p>   
+
 
 
 
