@@ -8,6 +8,24 @@ Interactive Tableau dashboard featuring current metrics and trends of the global
 </p>
 
 
+# [Airbnb Sentiment Analysis:](https://github.com/MunirYousef/NLP_Airbnb/blob/main/NLP_Final_Project.ipynb)
+This sentiment analysis was conducted on user reviews of left by Airbnb guests in NYC during 2015. After data collection and exploratory analysis, language detection was used to filter only the english comments. Data visualizations such as wordclouds, charts and frequency distributions showed what language characteristics were prevalent and before being sorted according to negative and positive polarity. Topic modeling and sentiment analysis were used to show what the most important factors of a guests stay were according to their experience. This data can be used to address issues that may impact the business negatively and enhance guest experience.    
+
+Project tools used:
+- NLTK
+-	Numpy
+-	Pandas
+-	matplotlib.pyplot
+-	seaborn
+
+<p align="center">
+ <img width="500" height="350" src="images/hist_1.png">
+   <img width="650" height="500" src="images/text_length.png">
+ <img width="650" height="500" src="images/wc_2.png">
+</p>
+
+
+
 
 
 
