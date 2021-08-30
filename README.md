@@ -24,7 +24,6 @@ Project tools used:
 <p align="center">
  <img width="500" height="350" src="images/hist_1.png">
    <img width="500" height="350" src="images/text_length.png">
- <img width="500" height="350" src="images/wc_2.png">
 </p>
 
 
