@@ -113,27 +113,6 @@ This file contains all the code to create a fully functional relational database
 
 
 
-# [ArcGIS Analysis Of Mining Communities In The United States:](https://github.com/MunirYousef/ArcGIS/blob/master/yousef-%20ArcGIS%20Final%20Part3.docx)
 
-In most cases, mining camps came first and communities built up around them. These communities have a number of different aspects that can be analyzed along demographic lines to better understand how earning potential in households are impacted by the presence of mining operations. This too can take many forms including educational achievement, etc.  While all of these are important to analyze together, this study focused average household income in mining communities by County.  
-
-
-
-**Methodology**
-The development environment for this study was ESRI ArcGIS Arcmap.
-This study used data from Social Explorer’s Education data set. Social Explorer has a wide variety of demographic data sets including:
-1.	Education
-2.	Employment
-3.	Family
-4.	Housing
-5.	Income
-6.	Poverty
-7.	Real Estate
-
-<p align="center">
-<img width="800" height="600" src="images/map2.jpg">
-<img width="800" height="600" src="images/map3.jpg">
-
-</p>
 
 
